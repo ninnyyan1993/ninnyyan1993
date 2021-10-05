@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, I'm a Ninny
 
-<!--
-**ninnyyan1993/ninnyyan1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Robot Development
+- 🌱 I’m currently learning C++
+- 👯 I’m looking to collaborate on Apollo repository
+- ⚡ Fun fact: Reading, coking, Programming
 
-Here are some ideas to get you started:
+**Languages and Tools:** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| <a href="https://github.com/ninnyyan1993/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ninnyyan1993&count_private=true?&show_icons=true&theme=vue&include_all_commits=true&theme=buefy&hide_border=true" alt="ninnyyan1993's GitHub stats" /></a> | <a href="https://github.com/ninnyyan1993/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninnyyan1993&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Focused Repositories
+
+
+<a href="https://github.com/ninnyyan1993/apollo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ninnyyan1993&repo=apollo&show_owner=true" />
+</a>
