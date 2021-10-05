@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Robot Development
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on Apollo repository
-- ⚡ Fun fact: Reading, coking, Programming
+- ⚡ Fun fact: Programming, Reading, Exercising
 
 **Languages and Tools:** 
 
